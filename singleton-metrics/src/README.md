@@ -147,6 +147,3 @@ After these improvements:
 * Serialization preserves the singleton instance
 * All components of the application use **the same global registry**
 
----
-
-If you want, I can also give you a **much shorter README version (10 lines)** that professors prefer because it is **very concise but still technically correct**.
