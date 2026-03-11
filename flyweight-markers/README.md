@@ -16,10 +16,6 @@ A `MarkerStyleFactory` is used to share style instances instead of creating new 
 
 ---
 
-# File-wise Problems and Improvements
-
----
-
 # 1. MapMarker.java
 
 ## Problem
